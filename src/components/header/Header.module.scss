@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+
+  .logo {
+    color: #E31F24;
+    font-size: 32px;
+    font-weight: 700;
+  }
+
+  .user {
+    color: #333;
+    font-size: 16px;
+    font-weight: 400;
+  }
+}
