@@ -1,0 +1,21 @@
+.search {
+  .searchInput {
+    display: flex;
+    width: 240px;
+    height: 46px;
+    padding: 16px;
+    align-items: center;
+    gap: 16px;
+    flex-shrink: 0;
+
+    font-size: 14px;
+
+    border-radius: 8px;
+    border: 1.5px solid var(--all-colors-gray-gray-200, #E9ECEF);
+    background: var(--all-colors-black-white-white, #FFF);
+  }
+
+  .results {
+
+  }
+}
